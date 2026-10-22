@@ -2,7 +2,7 @@
 
 A comprehensive sports analytics web application built with Python, Streamlit, and SQLite. This platform integrates real-time cricket data via the Cricbuzz REST API and features a robust SQL-driven analytics module solving 25 complex business questions using authentic Cricsheet JSON archives.
 
-🌐 **Live Application:** [View Live Cricbuzz LiveStats Pro Dashboard](https://cricbuzz-livestats.streamlit.app/)
+🌐 **Live Application:** [View Live Cricbuzz LiveStats Pro Dashboard](https://cricbuzz-livestets.streamlit.app)
 
 ---
 
@@ -25,5 +25,5 @@ A comprehensive sports analytics web application built with Python, Streamlit, a
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/kiraslife/cricbuzz-livestats.git
-   cd cricbuzz-livestats
+   git clone [https://github.com/kiraslife/cricbuzz-livestets.git](https://github.com/kiraslife/cricbuzz-livestets.git)
+   cd cricbuzz-livestets
